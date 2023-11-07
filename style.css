@@ -1,0 +1,36 @@
+.bg-img1 {
+    background-image: url('https://t4.ftcdn.net/jpg/04/95/28/65/360_F_495286577_rpsT2Shmr6g81hOhGXALhxWOfx1vOQBa.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.bg-img2 {
+    background-image: url('https://cdn.pixabay.com/photo/2015/12/06/09/15/maple-1079235_640.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+.bg-img3 {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+
+main {
+    margin-top: 56px;
+}
+
+#myCarousel {
+
+    height: 300px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
